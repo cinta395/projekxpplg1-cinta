@@ -1,0 +1,12 @@
+.kotak{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: pink;
+    border-radius: 20px;
+    justify-content: center;
+    margin: 0 auto 20px;
+    margin-top: 250px;
+}
